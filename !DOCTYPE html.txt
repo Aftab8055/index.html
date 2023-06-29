@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Position Relative Example</title>
+  <title>My web pages</title>
   <style>
     .box {
       position: relative;
@@ -24,7 +24,7 @@
   <div class="box">
     <div class="inner-box">
 <p>
-Cloud computing[1] is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.[2] Large clouds often have functions distributed over multiple locations, each of which is a data center. Cloud computing relies on sharing of resources to achieve coherence and typically uses a pay-as-you-go model, which can help in reducing capital expenses but may also lead to unexpected operating expenses for use
+Cloud computing[1] is the on-demand 
 </p>
 </div>
   </div>
