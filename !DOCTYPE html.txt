@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Position Relative Example</title>
+  <style>
+    .box {
+      position: relative;
+      width: 200px;
+      height: 200px;
+      background-color: blue;
+    }
+    
+    .inner-box {
+      position: relative;
+      top: 50px;
+      left: 50px;
+      width: 100px;
+      height: 100px;
+      background-color: red;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <div class="inner-box">
+<p>
+Cloud computing[1] is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user.[2] Large clouds often have functions distributed over multiple locations, each of which is a data center. Cloud computing relies on sharing of resources to achieve coherence and typically uses a pay-as-you-go model, which can help in reducing capital expenses but may also lead to unexpected operating expenses for use
+</p>
+</div>
+  </div>
+</body>
+</html>
